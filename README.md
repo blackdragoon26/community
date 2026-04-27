@@ -27,6 +27,10 @@ Archive of in-person meetups with presentation materials.
 - [Nov 30 - Shanghai](./hami-meetup/01-shanghai-20251130/)
 - [Dec 27 - Beijing](./hami-meetup/02-beijing-20251227/)
 
+**2026：**
+
+- [Apr 25 - Shenzhen](./hami-meetup/03-shenzhen-20260425/)
+
 ### Learn More
 
 Visit [HAMi Meetup](./hami-meetup/) for complete details and presentation materials.
