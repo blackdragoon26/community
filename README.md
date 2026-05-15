@@ -35,6 +35,16 @@ Archive of in-person meetups with presentation materials.
 
 Visit [HAMi Meetup](./hami-meetup/) for complete details and presentation materials.
 
+## Webinar
+
+Archive of online webinars with presentation materials.
+
+**2026:**
+
+- [Ep.01 - How HAMi 2.9 Transforms Kubernetes AI Compute Scheduling (May 14)](./webinar/)
+
+Visit [Webinar Archive](./webinar/) for complete details and presentation materials.
+
 ## Contact
 
 <!--
