@@ -52,7 +52,7 @@ accused of a CoC violation.
 
 ## Code of Conduct
 
-[Code of Conduct](./CODE_OF_CONDUCT.md)
+[Code of Conduct](https://github.com/cncf/foundation/blob/main/code-of-conduct.md)
 violations by community members will be referred to the CNCF Code of Conduct
 Committee. Should the CNCF CoC Committee need to work with the project on resolution, the
 Maintainers will appoint a non-involved contributor to work with them.
