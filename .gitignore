@@ -1,0 +1,2 @@
+# Ignore raw/unsorted files dropped in repo root
+.DS_Store

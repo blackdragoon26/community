@@ -19,3 +19,11 @@ Example: `01-hami-2.9-kubernetes-ai-scheduling-limengxuan-20260514.pdf`
 **Topic:** How HAMi 2.9 Transforms Kubernetes AI Compute Scheduling
 
 - [Download PDF](./01-hami-2.9-kubernetes-ai-scheduling-limengxuan-20260514.pdf)
+
+### Episode 02 - Mastering HAMi DRA
+
+**Date:** June 11, 2026
+**Speaker:** Shouren Yang (@yangshouren) - HAMi Maintainer & Fancy Intelligence Engineer
+**Topic:** HAMi DRA Deep Dive & Ascend Support Updates
+
+- [Download PDF](./02-hami-dra-yangshouren-20260611.pdf)
