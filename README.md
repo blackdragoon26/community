@@ -2,7 +2,7 @@
 
 Welcome to the HAMi Community!
 
-This is the starting point for joining and contributing to the HAMi community—improving documentation, code, giving talks, etc.
+This is the starting point for joining and contributing to the HAMi community: improving documentation, code, giving talks, etc.
 
 ## Community Meeting
 
@@ -77,6 +77,10 @@ We encourage all contributors to become members. Learn more about requirements a
 2. How to [become a Reviewer](./community-membership.md#Reviewer)
 3. How to [become a Approver](./community-membership.md#Approver)
 4. How to [become a Maintainer](./community-membership.md#Maintainer)
+
+## Ambassador Program
+
+The [HAMi Ambassador Program](./ambassador-program.md) recognizes and empowers individuals who make sustained contributions to the HAMi community through content creation, event organization, technical evangelism, and community support. Learn more about responsibilities, benefits, and how to apply in the [Ambassador Program doc](./ambassador-program.md), and see the current [Ambassador list](./ambassador-list.md).
 
 ## Questions and issues
 
